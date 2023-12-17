@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/flags">
+        <file>CountryFlags/china.png</file>
+        <file>CountryFlags/germany.png</file>
+        <file>CountryFlags/iran.png</file>
+        <file>CountryFlags/iraq.png</file>
+        <file>CountryFlags/russia.png</file>
+        <file>CountryFlags/united_states.png</file>
+    </qresource>
+    <qresource prefix="/eye_ON_OFF">
+        <file>eye-icons/eye.png</file>
+        <file>eye-icons/eye-close.png</file>
+    </qresource>
+    <qresource prefix="/refresh">
+        <file>refreshCaptcha/refresh.png</file>
+    </qresource>
+</RCC>
